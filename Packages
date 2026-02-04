@@ -4,10 +4,10 @@ Architecture: iphoneos-arm64
 Maintainer: spiri2
 Depends: firmware (>=15.0)
 Filename: debs/com.spiri2.apex_1.0.6_iphoneos-arm64.deb
-Size: 18682800
-MD5sum: ad8c0f791d3e4030f144c0d4d358e48d
-SHA1: 395cd88a9d55aa193260c7481021405f529ca0bf
-SHA256: e69bf5cd1017184575a52a315a3408b563852693273c91150d2ac61077d87ddc
+Size: 11126720
+MD5sum: 9749f49b2c8b277be5bda8ffa1c44153
+SHA1: d237480094ce226e1e07cea8af94f3e8123d1a8c
+SHA256: 7bc047e56a7960079c9018b29676d0921685888f6a31c6a527f141db1f9d29af
 Section: Utilities
 Description: Apex is a Pokémon GO companion app that provides live coordinates for spawns, raids, nests, friend codes, trading tools, and more.
 Author: spiri2
