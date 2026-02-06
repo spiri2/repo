@@ -13,3 +13,18 @@ Section: Tweaks
 Description: LAN receiver for ATremote (AutoTouch proxy). Pairing-code protected.
 Name: ATremote Receiver
 
+Package: com.spiri.atremote.receiver
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: spiri2
+Installed-Size: 380
+Depends: firmware (>= 15.0), ellekit
+Filename: debs/com.spiri.atremote.receiver_0.1.1_iphoneos-arm64.deb
+Size: 20868
+MD5sum: 9ef111fe92aa2789aa784d80fa8bdcb4
+SHA1: 3735305187c47073309b1367e4597a05f83c6cc8
+SHA256: 2244a7a5fa6f5569e5f316552d0cc2c6d334e66b3196a8dc20c080b2bd3e4809
+Section: Tweaks
+Description: LAN receiver for ATremote (AutoTouch proxy). Pairing-code protected.
+Name: ATremote Receiver
+
