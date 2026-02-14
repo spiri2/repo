@@ -1,14 +1,14 @@
 Package: com.spiri.apexol
-Version: 0.2.61
+Version: 0.2.62
 Architecture: iphoneos-arm64
 Maintainer: spiri2
 Installed-Size: 2968
 Depends: firmware (>= 15.0)
-Filename: debs/com.spiri.apexol_0.2.61_iphoneos-arm64.deb
-Size: 1610790
-MD5sum: 6e887a8bb55eb1c50fc0d71429f63a1c
-SHA1: 5e12d6847b71892ea9a7c72f5e5db548ccf7aad3
-SHA256: cb0a66ab383162b5faf4f74d7f93ec969476b0e7d7f097470259bf0dfa070e39
+Filename: debs/com.spiri.apexol_0.2.62_iphoneos-arm64.deb
+Size: 1612956
+MD5sum: cd44ac235cd89e5343e6599ebaaf7b5c
+SHA1: 9bd2dba38ab6e9e7bd3a8e669cbd6abef6d8cd75
+SHA256: 134b9ead57ef473713ac2ce63ad59f9782c49fd8ede80e970f9e960afea0db9d
 Section: Tweaks
 Description: ApexOL is a Pokémon GO companion overlay that provides live coordinates and more. ApexOL is NOT a spoofer and does NOT inject apps (e.g. Pokemon GO)
 Author: spiri2
