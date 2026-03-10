@@ -15,16 +15,16 @@ Author: spiri2
 Name: ApexOL
 
 Package: com.spiri.apexreceiver
-Version: 0.0.60
+Version: 0.0.61
 Architecture: iphoneos-arm64
 Maintainer: spiri2
 Installed-Size: 472
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.spiri.apexreceiver_0.0.60_iphoneos-arm64.deb
-Size: 77154
-MD5sum: eed6cf89ac958c919837a2c5e654790b
-SHA1: 6a9764faeaba0761f55b39b727af84d428762735
-SHA256: 0854a584926a91e95053ec1b2ac3abfca101a9ca7416cd04c7630ebd8dc9aa61
+Filename: debs/com.spiri.apexreceiver_0.0.61_iphoneos-arm64.deb
+Size: 77944
+MD5sum: 175e3486b2514c3544d06ddad916773a
+SHA1: bdbdbf3946d6da6ff897b2dffac4fd09de1dc14f
+SHA256: 08e2efffd6107124d0e7c86a4a94b6296d028c7c9bd98bcd84af27ff711e66dd
 Section: Tweaks
 Description: Remote screenshot receiver tweak for jailbroken devices.
 Author: spiri2
