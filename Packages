@@ -31,16 +31,16 @@ Author: spiri2
 Name: Apex Receiver
 
 Package: com.spiri2.apexsp
-Version: 0.4.0
+Version: 0.5.0
 Architecture: iphoneos-arm64
 Maintainer: spiri2
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: debs/com.spiri2.apexsp_0.4.0_iphoneos-arm64.deb
-Size: 13274
-MD5sum: ee0f46a139c2648ea670b17633aaf6b9
-SHA1: 6973aa986e32f1e5be3ce335313413e076927814
-SHA256: ced1eb53652ca9d9cd3c5483cb7a7b204c545f2b1a7290656f35503f7c1d14a9
+Filename: debs/com.spiri2.apexsp_0.5.0_iphoneos-arm64.deb
+Size: 13296
+MD5sum: e12d77e9b2c097755caddc8ef1230e38
+SHA1: 82532fe79d68a89ba4d2b4f8c9eebbbe87fd127d
+SHA256: e0bfbc53b336bce09d9cf8a16bd56e6f6ce0a13cacf1ac29c87e50da4286cf52
 Section: Tweaks
 Description: Coordinate search overlay for Apex
 Author: spiri2
