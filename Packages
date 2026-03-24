@@ -30,3 +30,19 @@ Description: Remote screenshot receiver tweak for jailbroken devices.
 Author: spiri2
 Name: Apex Receiver
 
+Package: com.spiri2.apexsp
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: spiri2
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/com.spiri2.apexsp_0.1.0_iphoneos-arm64.deb
+Size: 8670
+MD5sum: 42c6e98c7b4cdbfb4f6811d760c6bb7b
+SHA1: f93eb27eaf53cf8ff3ec0d421f82ae0d9339d40f
+SHA256: 1d96fd0d0189583107bdd1e72b98791f6cc9720ed2bd1a7f7e026c8842f418a0
+Section: Tweaks
+Description: Coordinate search overlay for Apex
+Author: spiri2
+Name: ApexSP
+
